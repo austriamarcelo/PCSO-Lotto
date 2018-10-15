@@ -232,7 +232,7 @@ overflow: hidden;
 width: 1153px;
 }
 #header-navigation {
-padding: 30px 0 25px;
+padding: 1px 0 10px;
 margin: 0;
 top: 0;
 width: 100%;
@@ -539,7 +539,7 @@ margin: 0;
 min-width: 187px;
 }
 .header-logo img {
-height: 62px;
+height: 48px;
 margin: 0;
 max-width: 100%;
 }
